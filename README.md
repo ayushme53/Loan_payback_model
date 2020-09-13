@@ -1,6 +1,6 @@
 Project Made/Contributor = Ayush Mehra
 
-Problem Statement - The person will play his loan or not.
+Problem Statement - The person will pay his loan or not.
 
 This project will classify whether the person who has taken the loan will return it or not.
 We will train the model through
